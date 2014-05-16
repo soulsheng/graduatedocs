@@ -1,0 +1,3 @@
+Shousheng LIU, Ge CHEN, Chunyong MA, Yong HAN. GPGPU Acceleration for Skeletal Animation - Comparing OpenCL with CUDA and GLSL. Journal of Computational Information Systems. 2014, 10(16). In Press.
+
+刘寿生, 陈戈, 马纯永, 韩勇. 从SSE到OpenCL：多核CPU上骨骼动画并行算法对比研究. 系统仿真学报. 2014. 已录用. 
